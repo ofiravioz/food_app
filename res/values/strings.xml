@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FOOD</string>
+    <string name="search" />
+    <string name="meal_category" />
+</resources>
